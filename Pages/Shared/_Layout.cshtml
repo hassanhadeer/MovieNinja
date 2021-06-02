@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <title>@ViewData["Title"] - MovieNinja</title>
+</head>
+<body>
+    <header>
+    @{
+        if(Program.userID == 0){
+            <form id="loginForm" asp-page-handler="Login">
+                <input type="text" name="username" placeholder="username">
+                <input type="password" name="password" placeholder="password">
+                <input type="submit" value="login">
+            </form>
+        }
+        else{
+            <form id="logoutForm" asp-page-handler="Logout">
+                <a href="./Watchlist" title="Your watch list">watch list</a>
+                <input type="submit" value="logout">
+            </form>
+        }
+    }
+    </header>
+
+    <nav>
+        <a href="./Index" title="home">home</a>
+        <a href="./About" title="about">about</a>
+        <a href="./Contact" title="contact">contact</a>
+        <a href="./Join" title="join">join</a>
+    </nav>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

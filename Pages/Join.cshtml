@@ -1,0 +1,14 @@
+@page
+@model JoinModel
+@{
+    ViewData["Title"] = "Join our site today!";
+}
+
+<h1>Welcome to MovieNinja - please provide the following details to join:</h1>
+<form id="signupForm" asp-page-handler="Signup">
+    <input type="text" name="username" placeholder="type a username"><br>
+    <input id="password1" type="password" name="password" placeholder="type a password"><br>
+    <input id="password2" type="password" name="confirmPassword" placeholder="retype your password"><br>
+    <input type="email" name="email" placeholder="type your email" onfocus="CheckPasswords();"><br>
+    <input type="submit" value="Create Account">
+</form>

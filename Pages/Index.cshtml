@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form id="searchForm" method="POST" asp-page-handler="Search">
+    <input id="searchBox" type="text" name="search" placeholder="enter your search here...">
+</form>
+
+<div id="results">
+    <form method="POST" asp-page-handler="Details">
+        @for(int i = 0; i < Model.posterURLS.Count; i++) {
+            string path = "https://image.tmdb.org/t/p/w500" + Model.posterURLS[i];
+            <div class="thumb" style="background: url(@path); background-size: 100%;" title="@Model.overviews[i]">
+                <input type="submit" class="thumbButton" name="movieID" value="@Model.movieIDs[i]" />
+            </div>
+        }
+    </form>
+</div>

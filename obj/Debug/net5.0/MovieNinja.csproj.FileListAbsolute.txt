@@ -1,0 +1,141 @@
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\appsettings.json
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.exe
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.deps.json
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.json
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.dev.json
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.pdb
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.csprojAssemblyReference.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfoInputs.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CoreCompileInputs.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.Manifest.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.xml
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\scopedcss\bundle\MovieNinja.styles.css
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.input.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.output.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorCoreGenerate.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.pdb
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.genruntimeconfig.cache
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CopyComplete
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\obj\Debug\net5.0\Razor\Pages\Join.cshtml.g.cs
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alien\OneDrive\Desktop\CSharp Online\MovieNinja\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\scopedcss\bundle\MovieNinja.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Join.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\day 7\MovieNinja\MovieNinja\obj\Debug\net5.0\MovieNinja.genruntimeconfig.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\appsettings.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.exe
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.deps.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.runtimeconfig.dev.json
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.csprojAssemblyReference.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfoInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.AssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.Manifest.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\staticwebassets\MovieNinja.StaticWebAssets.xml
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\scopedcss\bundle\MovieNinja.styles.css
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.input.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.TagHelpers.output.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorCoreGenerate.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Actor.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Join.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cache
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.RazorTargetAssemblyInfo.cs
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.Views.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.csproj.CopyComplete
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\ref\MovieNinja.dll
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.pdb
+C:\Users\Hassan Abu Hadeer\Documents\Trios\C#Dev\file\MyFile\Project\jan18\MovieNinja\obj\Debug\net5.0\MovieNinja.genruntimeconfig.cache

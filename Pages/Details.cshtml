@@ -1,0 +1,50 @@
+@page
+@model DetailsModel
+@{
+    ViewData["Title"] = "Movie Details";
+    int MAX_CAST;
+    if(Model.actorIDs.Count >= 10) {
+        MAX_CAST = 10;
+    }
+    else {
+        MAX_CAST = Model.actorIDs.Count;
+    }
+    string moviePoster = "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces" + Program.movie.backdrop_path;
+}
+
+<form id="searchForm" method="POST" asp-page-handler="Search">
+    <input id="searchBox" type="text" name="search" placeholder="enter your search here...">
+</form>
+
+<div id="movieDetails" style="background: radial-gradient(ellipse closest-side, 
+        rgba(15, 14, 22, 0.75), #100e17), url(@moviePoster); background-size: cover;">
+
+        <div id="movieDetailsLeft">
+            <img class="movieDetailsPoster" src="https://image.tmdb.org/t/p/w500/@Model.moviePoster" alt="blah">
+            <h2>@Model.movieYearAndRuntime</h2>
+            @{
+                if(Program.userID != 0) {
+                    <form id="watchForm" asp-page-handler="AddToWatch">
+                        <input type="hidden" name="movieID" value="@Program.dataNinja.movieID">
+                        <input type="hidden" name="poster_path" value="@Program.dataNinja.poster_path">
+                        <input type="hidden" name="overview" value="@Program.dataNinja.overview">
+                        <input type="hidden" name="userID" value="@Program.userID">
+                        <input type="submit" value="Add to watch">
+                    </form>
+                }
+            }
+        </div>
+        <div id="movieDetailsRight">
+            <h1>@Model.movieTitle</h1>
+            <h3>@Model.movieTagline</h3>
+            <p>@Model.movieOverview</p>
+            <form method="POST" asp-page-handler="GetActor">
+                @for(int i = 0; i < MAX_CAST; i++) {
+                    string path = "https://image.tmdb.org/t/p/w500" + Model.castPics[i];
+                    <div class="castThumbs" style="background: url(@path); background-size: 100%; background-position: center;" title="@Model.castNames[i]">
+                        <input type="submit" class="thumbButton" name="actorID" value="@Model.actorIDs[i]" />
+                    </div>
+                }
+            </form>
+        </div>
+</div>

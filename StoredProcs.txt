@@ -1,0 +1,75 @@
+
+CREATE PROC spAddUser
+@username VARCHAR(50),
+@password VARCHAR(512),
+@email VARCHAR(100)
+AS BEGIN
+    
+    INSERT INTO [user]
+    (username, password, email)
+    VALUES
+    (@username, @password, @email)
+
+    DECLARE @userID int
+    SELECT 
+        userID
+        FROM [user]
+        WHERE username = @username AND
+        [password] = @password
+    RETURN @userID
+END
+
+EXEC spAddUser
+@username = 'Mikey',
+@password = 'password123',
+@email = 'alienabductionsfordummies@hotmail.com'
+
+
+CREATE PROC spUserDuplicateCheck
+@username VARCHAR(50)
+
+AS BEGIN
+
+    DECLARE @count int = 0
+    SELECT 
+        COUNT(username) AS 'Count'
+    FROM [user]
+    WHERE username = @username
+    RETURN @count
+
+END
+
+
+
+-- compare username and password to the user table
+
+CREATE PROC spLogin
+@username VARCHAR(50),
+@password VARCHAR(512)
+AS BEGIN
+
+    DECLARE @userID int = 0
+    SELECT 
+        userID AS 'UserID'
+    FROM [user]
+    WHERE username = @username AND
+        password = @password
+    RETURN @userID
+
+END
+
+
+-- allow the user to store a movie by it's id to a watch list
+CREATE PROC spAddWatch
+@movieID int,
+@poster_path VARCHAR(120),
+@overview VARCHAR(MAX),
+@userID int
+AS BEGIN
+
+    INSERT INTO [watch]
+    (movieID, poster_path, overview, userID)
+    VALUES
+    (@movieID, @poster_path, @overview, @userID)
+
+END
